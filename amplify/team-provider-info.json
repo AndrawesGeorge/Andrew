@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shorttrip-dev-cfdee-authRole",
+      "UnauthRoleArn": "arn:aws:iam::852573637433:role/amplify-shorttrip-dev-cfdee-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::852573637433:role/amplify-shorttrip-dev-cfdee-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-shorttrip-dev-cfdee-deployment",
+      "UnauthRoleName": "amplify-shorttrip-dev-cfdee-unauthRole",
+      "StackName": "amplify-shorttrip-dev-cfdee",
+      "StackId": "arn:aws:cloudformation:us-east-1:852573637433:stack/amplify-shorttrip-dev-cfdee/b86e4610-82b9-11ef-ae7f-0affd170d029",
+      "AmplifyAppId": "d2zsomrc76w85z"
+    },
+    "categories": {
+      "auth": {
+        "shorttrip545990c1": {}
+      }
+    }
+  }
+}
